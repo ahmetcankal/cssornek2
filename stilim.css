@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12.Mar.2018, 16:50:33
+    Author     : Fbloklab2
+*/
+
+        p {
+         font-family: verdana;
+         font-size: 20px;
+        
+        }
+        body
+        {
+           background-color: appworkspace; 
+        }
+        
+        .merkez
+        {
+            text-align: center;
+            color: yellowgreen;
+        }
+        
+        
+        #para1 { color: red;    }
+        
+        div.row
+        {
+            
+            
+        }
+        
+    
+    
